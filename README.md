@@ -1,2 +1,3 @@
 # Machine-learning
-Prediction models
+
+Prediction and classification models
